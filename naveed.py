@@ -54,7 +54,7 @@ logo=("""\033[1;38m
 {GREEN} HEATERS : WAKT BURA NHI THA LOG HE HARAMI MILA
 {GREEN} Status    : 𝙁𝙍𝙀𝙀
 {GREEN} Version   : 5.0
-{GREEN} YOUTUBE : https://www.youtube.com/@Termuxmaster-cs3cq
+{GREEN} RDX: WAJA TUM HO
 {GREEN} Update: EVERYNIGHT 1 PM
 {GREEN} UNSTOPABLE: MOST LEGEND BOY XDR HERE
  ok ids will be saved in Ali folder
@@ -408,7 +408,7 @@ def m2(ids,names,passlist,fbcr):
 			else:
 				fban = 'Orca-Android'
 				fbpn = 'com.facebook.orca'
-			ua ="Mozilla/5.0 (Linux; Android 12; Infinix X6815D Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75;]", 
+			ua ="Mozilla/5.0 (Android 9; HUAWEI BND-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 SurfBrowser/3.0	Surf Browser 3	Honor 7X;]",
 			head = {  "method": 'GET', 
     "path": '/',
     "scheme": 'https',
@@ -498,31 +498,7 @@ def rd(ids,passlist,fbcr):
 			else:
 				fban = 'Orca-Android'
 				fbpn = 'com.facebook.orca'
-			ua = "Mozilla/5.0 (Android 9; HUAWEI BND-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 SurfBrowser/3.0	Surf Browser 3	Honor 7X;]',
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+			ua = "Mozilla/5.0 (Linux; Android 11; Infinix X6816D Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75;]",
 			head = { "method": 'GET', 
     "path": '/',
     "scheme": 'https',
